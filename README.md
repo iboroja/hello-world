@@ -1,3 +1,3 @@
 # hello-world
-First repository by me \n
+First repository by me <br>
 Done editing
